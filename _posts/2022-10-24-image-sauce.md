@@ -1,7 +1,7 @@
 ---
 title: Image Sauce Guide
 author: Anonymous
-category: Jekyll
+category: Sauce
 layout: post
 ---
 

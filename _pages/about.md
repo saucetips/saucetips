@@ -1,9 +1,9 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
+author: Anonymous
+date: 2022-10-24
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+spoon.wiki ded
